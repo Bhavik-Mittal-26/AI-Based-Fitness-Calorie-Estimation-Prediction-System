@@ -4,6 +4,9 @@ An AI-powered fitness application that predicts the number of calories burned ba
 
 ---
 
+# Link of website -: https://bhavik-mittal-26-ai-based-fitness-calorie-estimation-app-2lkupk.streamlit.app/
+
+
 ## 🚀 Features
 
 * 🔮 Predict calories burned using ML model (XGBoost)
